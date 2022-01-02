@@ -1,0 +1,7 @@
+name: EndBiomeFixer
+version: '${version}'
+main: me.noahvdaa.endbiomefixer.endbiomefixer.EndBiomeFixer
+api-version: 1.18
+load: STARTUP
+authors: [ NoahvdAa ]
+website: https://github.com/NoahvdAa/EndBiomeFixer
